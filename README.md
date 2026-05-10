@@ -57,10 +57,3 @@ cd client
 npm install
 npm run dev
 ```
-
-## Assignment Report
-
-The written report for Software Development Case Studies Assignment 4 is included as:
-
-- `ASSIGNMENT_4_REPORT.md`
-- `ASSIGNMENT_4_REPORT.docx`
